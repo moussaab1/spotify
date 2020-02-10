@@ -1,0 +1,13 @@
+.login_image{
+    height: 40px;
+    float: right;
+}
+.login_btn{
+    border: 1px solid #C4D3E1;
+    background-color: white;
+    font-size: 20px;
+    margin-top: 20%;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+}

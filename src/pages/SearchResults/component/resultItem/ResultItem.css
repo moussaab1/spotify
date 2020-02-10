@@ -1,0 +1,17 @@
+.figure_result{
+    border: 2px solid #C4D3E1;
+}
+.figure_result img{
+ margin-bottom: 1px;
+ width: 100%;
+ height: 280px;
+}
+.result_container{
+    border-top: 2px solid #C4D3E1;
+}
+.star-rating {
+    /* line-height:32px;
+    font-size:1.25em; */
+    margin-top: 15%;
+  }
+  .star-rating .fa-star{color: #C4D3E1;}
